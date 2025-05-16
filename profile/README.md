@@ -1,1 +1,1 @@
-VGNet Lab aims to be a beacon of innovation at the intersection of Computer science, Machine Learning and Distributed Learning. We aspite to advance technology through groundbreaking research, tackling real-world challenges, and fostering an environment of collaboration and excellence.
+VGNet Lab aims to be a beacon of innovation at the intersection of Computer science, Machine Learning and Distributed Learning. We aspire to advance technology through groundbreaking research, tackling real-world challenges, and fostering an environment of collaboration and excellence.
